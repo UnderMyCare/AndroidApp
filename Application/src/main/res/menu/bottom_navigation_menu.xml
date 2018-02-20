@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:title="Home"
@@ -6,4 +7,14 @@
         android:icon="@drawable/ic_graphic_eq_black_24dp"/>
     <item android:title="Profile"
         android:icon="@drawable/ic_person_black_24dp"/>
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+    <item android:title="Logs"
+        android:icon="@drawable/ic_graphic_eq_black_24dp"/>
+    <item android:title="Profile"
+        android:icon="@drawable/ic_person_black_24dp"/>
+>>>>>>> bd128f57d8a893e6f11f3fe5da961a6afa4f4b59
 </menu>
