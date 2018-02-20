@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272775535605",
+    "firebase_url": "https://undermycare-users.firebaseio.com",
+    "project_id": "undermycare-users",
+    "storage_bucket": "undermycare-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272775535605:android:057e92167ca9714a",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothlegatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272775535605-qufbg6c2063e3101hgdp5t1jiv9vgvh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.bluetoothlegatt",
+            "certificate_hash": "6eac49a456240c629b31883542a5839764ad6d40"
+          }
+        },
+        {
+          "client_id": "272775535605-dja2v7jqrl46inb1t5ra48fo2jbcdao8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH9LriLrv2Ch7wNfjN9OFkD_Loy6OgERg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272775535605-dja2v7jqrl46inb1t5ra48fo2jbcdao8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

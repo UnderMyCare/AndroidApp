@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tfalas\\Downloads\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tfalas\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\e64488de527219282f66d902f5434ffb\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tfalas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\46e9be3c976f18afa4ff7d9189a0743d\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

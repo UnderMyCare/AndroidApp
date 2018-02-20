@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tfalas\\Downloads\\BluetoothLeGatt\\Application\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tfalas\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\ee52f2df56a6c585a8ec5559f813cba7\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tfalas\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\46e9be3c976f18afa4ff7d9189a0743d\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        }
+    ]
+}

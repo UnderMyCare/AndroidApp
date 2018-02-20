@@ -1,0 +1,482 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\94af13ae18cd620575062c6817dd5c72\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:17:1-39:12
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\171fc32ee1b6c8a3b3ecf765a705328b\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\countrycodepicker-2.1.5.aar\07f8357ef482a7134dd4c4d80dea60b2\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ee52f2df56a6c585a8ec5559f813cba7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3c4c35bc12886e31a29f89f6503140d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\d42b5e46f15ac84600f6e6d75087729e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\06c83a193da91da29bb7f643265fee53\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d480a4d51a543e24d75387771fee4847\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\52ddae2096b1a1a6522ff01720a97766\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fafc609260bf826ae4e70cc58df3e7f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\31afeb81809f7e03db5a574b4ce3b530\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46e9be3c976f18afa4ff7d9189a0743d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\a6bcd610faf4549a0661dff289d98157\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8998c8857084d488ef2c63a825ce8a61\AndroidManifest.xml:17:1-22:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.4.1.aar\9bd39a3f8f01b1a78f71fda49f47d15a\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a6be64584f1bf70929737785c507de74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\73ae9aca1b6ca81f2f4ddb5de065bf49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\16fe6af915780dc6f6953b20f15e9e84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3b6ed5bfee958b0d40c7c0228fd01e88\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\424d6e7ebede61dc2c4407c02b002fdc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a73d2e09bdc7ce7e451aae58ae33ed09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\371999e969d78dcb332b6b537a1cf9e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e64488de527219282f66d902f5434ffb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9d5267dea7bafd36c56a65f0a918bb0f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\b8b4091fe88fe1ebe43cca8b32127745\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\644f7210b44a3324d6cd8cb8937644c4\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\c7bcbe145ba4f43844fdecd1e7058452\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\44fc5dfbdfbd64095a246e528d112896\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\1b3e6c24267b19b76ce90daef703e20d\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\5176f779f2999810a335ce96676d593c\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5849019adfa5f3b12eb8199ae5651430\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\df06bf6b9d1dd5b9a0d71491b88d7793\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\9fd4829d7330238127b828eac2c4694d\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:2:11-56
+	android:versionName
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:7:5-9:34
+	android:required
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:8:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:5-70
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:16:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:17:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:18:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:19:5-20:53
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:20:9-51
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:21:5-22:63
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:22:9-61
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:23:5-24:64
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:24:9-62
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:25:5-26:66
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:26:9-64
+application
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:27:5-55:19
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\94af13ae18cd620575062c6817dd5c72\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\94af13ae18cd620575062c6817dd5c72\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:22:5-37:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\171fc32ee1b6c8a3b3ecf765a705328b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\171fc32ee1b6c8a3b3ecf765a705328b\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d480a4d51a543e24d75387771fee4847\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d480a4d51a543e24d75387771fee4847\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\52ddae2096b1a1a6522ff01720a97766\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\52ddae2096b1a1a6522ff01720a97766\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\a6bcd610faf4549a0661dff289d98157\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\a6bcd610faf4549a0661dff289d98157\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9d5267dea7bafd36c56a65f0a918bb0f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9d5267dea7bafd36c56a65f0a918bb0f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\b8b4091fe88fe1ebe43cca8b32127745\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\b8b4091fe88fe1ebe43cca8b32127745\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\644f7210b44a3324d6cd8cb8937644c4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\644f7210b44a3324d6cd8cb8937644c4\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\c7bcbe145ba4f43844fdecd1e7058452\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\c7bcbe145ba4f43844fdecd1e7058452\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\44fc5dfbdfbd64095a246e528d112896\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\44fc5dfbdfbd64095a246e528d112896\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\1b3e6c24267b19b76ce90daef703e20d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\1b3e6c24267b19b76ce90daef703e20d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\5176f779f2999810a335ce96676d593c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\5176f779f2999810a335ce96676d593c\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\df06bf6b9d1dd5b9a0d71491b88d7793\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\df06bf6b9d1dd5b9a0d71491b88d7793\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\9fd4829d7330238127b828eac2c4694d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\9fd4829d7330238127b828eac2c4694d\AndroidManifest.xml:5:5-20
+	android:label
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:28:9-39
+	android:theme
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:32:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:37:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:9-58
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:40:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:42:9-44:37
+	android:enabled
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:44:13-35
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:43:13-47
+activity#com.example.android.bluetoothlegatt.GraphActivity
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:46:19-48
+activity#com.example.android.bluetoothlegatt.LoginActivity
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:48:9-50:46
+	android:theme
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:49:13-42
+activity#com.example.android.bluetoothlegatt.SignUpActivity
+ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:51:9-53:46
+	android:theme
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml:52:13-43
+uses-sdk
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\94af13ae18cd620575062c6817dd5c72\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\94af13ae18cd620575062c6817dd5c72\AndroidManifest.xml:7:5-43
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:20:5-44
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\171fc32ee1b6c8a3b3ecf765a705328b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\graphview-4.2.1.aar\171fc32ee1b6c8a3b3ecf765a705328b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\countrycodepicker-2.1.5.aar\07f8357ef482a7134dd4c4d80dea60b2\AndroidManifest.xml:10:5-12:41
+MERGED from [com.github.joielechong:countrycodepicker:2.1.5] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\countrycodepicker-2.1.5.aar\07f8357ef482a7134dd4c4d80dea60b2\AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:design:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ee52f2df56a6c585a8ec5559f813cba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\ee52f2df56a6c585a8ec5559f813cba7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3c4c35bc12886e31a29f89f6503140d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v13-27.0.2.aar\3c4c35bc12886e31a29f89f6503140d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\d42b5e46f15ac84600f6e6d75087729e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.8.0.aar\d42b5e46f15ac84600f6e6d75087729e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\06c83a193da91da29bb7f643265fee53\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.8.0.aar\06c83a193da91da29bb7f643265fee53\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d480a4d51a543e24d75387771fee4847\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\d480a4d51a543e24d75387771fee4847\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\52ddae2096b1a1a6522ff01720a97766\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\52ddae2096b1a1a6522ff01720a97766\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fafc609260bf826ae4e70cc58df3e7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\fafc609260bf826ae4e70cc58df3e7f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\31afeb81809f7e03db5a574b4ce3b530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\31afeb81809f7e03db5a574b4ce3b530\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46e9be3c976f18afa4ff7d9189a0743d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\46e9be3c976f18afa4ff7d9189a0743d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\a6bcd610faf4549a0661dff289d98157\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\a6bcd610faf4549a0661dff289d98157\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8998c8857084d488ef2c63a825ce8a61\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\8998c8857084d488ef2c63a825ce8a61\AndroidManifest.xml:20:5-44
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.4.1.aar\9bd39a3f8f01b1a78f71fda49f47d15a\AndroidManifest.xml:8:5-10:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.4.1] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\libphonenumber-android-8.4.1.aar\9bd39a3f8f01b1a78f71fda49f47d15a\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:transition:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a6be64584f1bf70929737785c507de74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\a6be64584f1bf70929737785c507de74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\73ae9aca1b6ca81f2f4ddb5de065bf49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\73ae9aca1b6ca81f2f4ddb5de065bf49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\16fe6af915780dc6f6953b20f15e9e84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\16fe6af915780dc6f6953b20f15e9e84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3b6ed5bfee958b0d40c7c0228fd01e88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\3b6ed5bfee958b0d40c7c0228fd01e88\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\424d6e7ebede61dc2c4407c02b002fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\424d6e7ebede61dc2c4407c02b002fdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a73d2e09bdc7ce7e451aae58ae33ed09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a73d2e09bdc7ce7e451aae58ae33ed09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\371999e969d78dcb332b6b537a1cf9e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\371999e969d78dcb332b6b537a1cf9e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e64488de527219282f66d902f5434ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\e64488de527219282f66d902f5434ffb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9d5267dea7bafd36c56a65f0a918bb0f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\9d5267dea7bafd36c56a65f0a918bb0f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\b8b4091fe88fe1ebe43cca8b32127745\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\b8b4091fe88fe1ebe43cca8b32127745\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\644f7210b44a3324d6cd8cb8937644c4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\644f7210b44a3324d6cd8cb8937644c4\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\c7bcbe145ba4f43844fdecd1e7058452\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\c7bcbe145ba4f43844fdecd1e7058452\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\44fc5dfbdfbd64095a246e528d112896\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-11.8.0.aar\44fc5dfbdfbd64095a246e528d112896\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\1b3e6c24267b19b76ce90daef703e20d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-11.8.0.aar\1b3e6c24267b19b76ce90daef703e20d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\5176f779f2999810a335ce96676d593c\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\5176f779f2999810a335ce96676d593c\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5849019adfa5f3b12eb8199ae5651430\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\5849019adfa5f3b12eb8199ae5651430\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\df06bf6b9d1dd5b9a0d71491b88d7793\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\df06bf6b9d1dd5b9a0d71491b88d7793\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\9fd4829d7330238127b828eac2c4694d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\9fd4829d7330238127b828eac2c4694d\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tfalas\Downloads\BluetoothLeGatt\Application\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\cad430d4a15d7be7316410823fc6b3af\AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.8.0.aar\f0f5aeebd806e569bc80bcbca6d52cc7\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\3f2a776932cb72250dcc921f2db23ba5\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\4693092bf1236ecb682c34679f4076fd\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\ceac7d6061fd80955fb5fa39636c6655\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:29:9-63
+permission#com.example.android.bluetoothlegatt.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:32:22-76
+uses-permission#com.example.android.bluetoothlegatt.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:39:13-43:29
+intent-filter#com.example.android.bluetoothlegatt+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:42:27-58
+category#com.example.android.bluetoothlegatt
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\59d23790e89111353705286c9b76bea3\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\26c66bd2a6045a1d9f1c082e016a19b0\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\tfalas\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\3fa3d78dbd31d0b25d5582d71f9eb3d1\AndroidManifest.xml:24:13-58
